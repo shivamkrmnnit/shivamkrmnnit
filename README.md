@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkrmnnit&" alt="shivamkrmnnit" /></p>
 
-<a href="https://app.daily.dev/shivamkumar3"><img src="https://api.daily.dev/devcards/ccf4b9f068cf4609b2a58b789a2fb57c.png?r=923" width="400" alt="SHIVAM KUMAR's Dev Card"/></a>
+
 
